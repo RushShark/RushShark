@@ -1,9 +1,0 @@
-server:
-  port: 8001
-
-spring:
-  datasource:
-    driver-class-name: oracle.jdbc.OracleDriver
-    url: jdbc:oracle:thin:@192.168.123.65:1521:orcl
-    username: MIP_USER
-    password: MIPUSER123
